@@ -132,22 +132,27 @@
 
 ---
 
-## 📜 Certifications
+### 🏅 Certifications
 
-<p>
-  <a href="https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view">
-    <img src="https://img.shields.io/badge/Kubernetes-Scalable%20Web%20Apps-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view">
-    <img src="https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view">
-    <img src="https://img.shields.io/badge/DevOps-Engineer-red?style=for-the-badge&logo=jenkins&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view">
-    <img src="https://img.shields.io/badge/AWS-Expert-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-</p>
+**Scalable Web Applications on Kubernetes**  
+<a href="https://drive.google.com/file/d/XXXX/view">
+  <img src="https://img.shields.io/badge/Kubernetes-Certified-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</a>
+
+**Docker Essentials**  
+<a href="https://drive.google.com/file/d/XXXX/view">
+  <img src="https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+**DevOps Engineer**  
+<a href="https://drive.google.com/file/d/XXXX/view">
+  <img src="https://img.shields.io/badge/DevOps-Certified-red?style=for-the-badge&logo=jenkins&logoColor=white" />
+</a>
+
+**AWS Expert**  
+<a href="https://drive.google.com/file/d/XXXX/view">
+  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
 
 ---
 
