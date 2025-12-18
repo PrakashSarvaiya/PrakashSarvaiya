@@ -1,115 +1,93 @@
-# 👋 Hi, I'm Prakash Sarvaiya
+# 🌍 Prakash Sarvaiya's Tech Space 🚀
 
-🚀 **DevOps Fresher | MCA Graduate | Cloud & Kubernetes Enthusiast**
+☁️ **DevOps Fresher | MCA Graduate | Cloud & Kubernetes Enthusiast**
 
-I am a DevOps fresher with strong hands-on practice in CI/CD pipelines, containerization, and deploying applications on AWS and Kubernetes. I focus on learning industry-standard tools and building real-world projects to strengthen my cloud and DevOps skills.
+💡 Passionate about learning and building real-world DevOps projects using AWS, Docker, Kubernetes, and CI/CD tools.
 
 ---
 
-## 🧠 Skills
+## 👨‍🎓 About Me
 
-### ☁️ Cloud & Infrastructure
+* 🎓 MCA Graduate with strong interest in DevOps & Cloud
+* 🛠️ Hands-on experience through real deployment projects
+* 🚀 Actively learning industry-standard DevOps tools
+* 🌱 Fresher, eager to grow and contribute to DevOps teams
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
-</p>
+---
 
-### 🔁 CI/CD & Automation
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
-### 📦 Containers
+## 🛠️ My Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
-
-### 📊 Monitoring & Code Quality
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" />
-</p>
-
-### 🛠️ Other Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
+  <img src="https://img.shields.io/badge/Azure-Basic-blue" />
+  <img src="https://img.shields.io/badge/GCP-Basic-lightblue" />
+  <img src="https://img.shields.io/badge/Git-VersionControl-red" />
+  <img src="https://img.shields.io/badge/GitHub-Code-black" />
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-red" />
+  <img src="https://img.shields.io/badge/SonarQube-CodeQuality-green" />
+  <img src="https://img.shields.io/badge/Trivy-ImageScan-pink" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange" />
+  <img src="https://img.shields.io/badge/Grafana-Visualization-orange" />
+  <img src="https://img.shields.io/badge/Nginx-WebServer-green" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-black" />
 </p>
 
 ---
 
 ## 📌 Projects
 
-### 1️⃣ Online Food Ordering Application – CI/CD & Kubernetes Deployment
+### 🍔 Online Food Ordering Application (DevOps CI/CD Project)
 
-**Description**
-Deployed a sample online food ordering application using a complete CI/CD pipeline and container orchestration on AWS EKS.
+* CI/CD pipeline using Jenkins
+* Dockerized application & pushed images to Docker Hub
+* Code quality checks with SonarQube
+* Container image scanning using Trivy
+* Deployed on AWS EKS
+* Exposed using Kubernetes LoadBalancer
 
-**Tools Used**
-`AWS` `Jenkins` `Docker` `Kubernetes (EKS)` `SonarQube` `Trivy`
-
-**What I Did**
-
-* Created a CI/CD pipeline using Jenkins
-* Dockerized the application and pushed images to Docker Hub
-* Performed code quality analysis using SonarQube
-* Scanned Docker images using Trivy
-* Deployed the application on AWS EKS
-* Exposed the application using a Kubernetes LoadBalancer service
-
-📂 **Repository:** [https://github.com/PrakashSarvaiya/DevOps-Project-Zomato](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)
+🔗 **Repo:** [https://github.com/PrakashSarvaiya/DevOps-Project-Zomato](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)
 
 ---
 
-### 2️⃣ Cloud-Native Application Deployment on AWS EKS
+### 🎟️ Cloud-Native Application Deployment on AWS EKS
 
-**Description**
-Built a Kubernetes-based application deployment with CI automation and DNS routing using AWS services.
+* Created and managed AWS EKS cluster
+* Automated build & deployment with Jenkins
+* Docker image build and registry management
+* Route53 DNS configuration
+* Kubernetes Deployments & Services
 
-**Tools Used**
-`AWS` `EKS` `Jenkins` `Docker` `Route53` `Load Balancer`
-
-**What I Did**
-
-* Created and managed an AWS EKS cluster
-* Automated build and deployment using Jenkins
-* Built and managed Docker images
-* Configured Route53 DNS to access the application
-* Managed Kubernetes manifests (Deployments & Services)
-
-📂 **Repository:** [https://github.com/PrakashSarvaiya/Book-My-Show](https://github.com/PrakashSarvaiya/Book-My-Show)
-
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**
+🔗 **Repo:** [https://github.com/PrakashSarvaiya/Book-My-Show](https://github.com/PrakashSarvaiya/Book-My-Show)
 
 ---
 
 ## 📜 Certifications
 
-* Scalable Web Applications on Kubernetes – [Kubernetes](https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view)
-* Docker Essentials – [https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view](https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view)
-* DevOps Engineer – [https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view](https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view)
-* AWS Expert – [https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view](https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view)
+* 📄 Scalable Web Applications on Kubernetes
+* 📄 Docker Essentials
+* 📄 DevOps Engineer
+* 📄 AWS Expert
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/prakash-sarvaiya](https://www.linkedin.com/in/prakash-sarvaiya)
-* GitHub: [https://github.com/PrakashSarvaiya](https://github.com/PrakashSarvaiya)
-* Email: [prakashsarvaiya53@gmail.com](mailto:prakashsarvaiya53@gmail.com)
+<p align="left">
+  <a href="mailto:prakashsarvaiya53@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakash-sarvaiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+  <a href="https://github.com/PrakashSarvaiya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black" />
+  </a>
+</p>
 
 ---
 
-⭐ *This profile showcases my learning journey and hands-on DevOps practice as a fresher.*
+⭐ *Thanks for visiting my GitHub profile! I’m continuously learning and building in DevOps & Cloud.*
