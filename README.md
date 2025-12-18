@@ -26,6 +26,12 @@
 * 🌱 Fresher, eager to grow and contribute to DevOps teams
 
 ---
+## 🌱 Currently Learning
+<img src="https://img.shields.io/badge/AWS%20EKS-Learning-blue?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Terraform-Practicing-purple?style=for-the-badge&logo=terraform" />
+<img src="https://img.shields.io/badge/GitOps-Exploring-orange?style=for-the-badge&logo=argo" />
+
+---
 
 ## 🛠️ My Tech Stack
 
