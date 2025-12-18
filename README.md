@@ -108,8 +108,6 @@
   <img src="https://img.shields.io/badge/View%20Repo🔗-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-🔗 **Repo:** [https://github.com/PrakashSarvaiya/DevOps-Project-Zomato](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)
-
 ---
 
 ### 🎟️ Cloud-Native Application Deployment on AWS EKS
@@ -128,7 +126,9 @@
 * Route53 DNS configuration
 * Kubernetes Deployments & Services
 
-🔗 **Repo:** [https://github.com/PrakashSarvaiya/Book-My-Show](https://github.com/PrakashSarvaiya/Book-My-Show)
+<a href="https://github.com/PrakashSarvaiya/Book-My-Show">
+  <img src="https://img.shields.io/badge/View%20Repo🔗-GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
