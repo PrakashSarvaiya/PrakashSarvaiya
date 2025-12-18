@@ -44,8 +44,6 @@
   <!-- Build & Artifacts -->
 
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nexus-1B1F23?style=for-the-badge&logo=sonatype&logoColor=white" />
-  <img src="https://img.shields.io/badge/JFrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white" />
 
   <!-- Containers & Orchestration -->
 
@@ -72,12 +70,10 @@
   <!-- App & OS -->
 
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
   <!-- Misc -->
 
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
