@@ -104,8 +104,8 @@
 * Deployed on AWS EKS
 * Exposed using Kubernetes LoadBalancer
 
-🔗<a href="https://github.com/PrakashSarvaiya/DevOps-Project-Zomato">
-  <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
+<a href="https://github.com/PrakashSarvaiya/DevOps-Project-Zomato">
+  <img src="https://img.shields.io/badge/View%20Repo🔗-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 🔗 **Repo:** [https://github.com/PrakashSarvaiya/DevOps-Project-Zomato](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)
