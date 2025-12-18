@@ -1,8 +1,20 @@
-# 🌍 Prakash Sarvaiya's Tech Space 🚀
+# 🌍 Prakash Sarvaiya's DevOps Journey 🚀
 
-☁️ **DevOps Fresher | MCA Graduate | Cloud & Kubernetes Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Fresher;MCA+Graduate;AWS+%7C+Docker+%7C+Kubernetes;Learning+by+Building+Projects" />
+</p>
 
-💡 Passionate about learning and building real-world DevOps projects using AWS, Docker, Kubernetes, and CI/CD tools.
+<p align="center">
+  <a href="https://github.com/PrakashSarvaiya">
+    <img src="https://img.shields.io/badge/GitHub-PrakashSarvaiya-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakash-sarvaiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Sarvaiya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:prakashsarvaiya53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -18,22 +30,56 @@
 ## 🛠️ My Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
-  <img src="https://img.shields.io/badge/Azure-Basic-blue" />
-  <img src="https://img.shields.io/badge/GCP-Basic-lightblue" />
-  <img src="https://img.shields.io/badge/Git-VersionControl-red" />
-  <img src="https://img.shields.io/badge/GitHub-Code-black" />
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-red" />
-  <img src="https://img.shields.io/badge/SonarQube-CodeQuality-green" />
-  <img src="https://img.shields.io/badge/Trivy-ImageScan-pink" />
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange" />
-  <img src="https://img.shields.io/badge/Grafana-Visualization-orange" />
-  <img src="https://img.shields.io/badge/Nginx-WebServer-green" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-black" />
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+  <!-- SCM & CI/CD -->
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+  <!-- Build & Artifacts -->
+
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexus-1B1F23?style=for-the-badge&logo=sonatype&logoColor=white" />
+  <img src="https://img.shields.io/badge/JFrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white" />
+
+  <!-- Containers & Orchestration -->
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Scout-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <!-- Automation & IaC -->
+
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+  <!-- Quality & Security (Beginner) -->
+
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+  <!-- Monitoring -->
+
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+  <!-- App & OS -->
+
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+  <!-- Misc -->
+
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
