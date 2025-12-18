@@ -10,32 +10,39 @@ I am a DevOps fresher with strong hands-on practice in CI/CD pipelines, containe
 
 ### ☁️ Cloud & Infrastructure
 
-* AWS (EC2, EKS, IAM, VPC, Route53, Load Balancer)
-* Kubernetes (EKS)
-* Basic Infrastructure as Code (Terraform – beginner)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+</p>
 
 ### 🔁 CI/CD & Automation
 
-* Jenkins (Declarative Pipelines)
-* GitHub Actions (basic understanding)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ### 📦 Containers
 
-* Docker
-* Docker Compose
-* Docker Hub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
 
-### 📊 Monitoring & Quality
+### 📊 Monitoring & Code Quality
 
-* SonarQube (code quality checks)
-* Trivy (container image scanning)
-* Prometheus & Grafana (basic monitoring)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" />
+</p>
 
 ### 🛠️ Other Tools
 
-* Git & GitHub
-* Linux (Ubuntu)
-* NGINX
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+</p>
 
 ---
 
@@ -51,14 +58,14 @@ Deployed a sample online food ordering application using a complete CI/CD pipeli
 
 **What I Did**
 
-* Created CI/CD pipeline using Jenkins
+* Created a CI/CD pipeline using Jenkins
 * Dockerized the application and pushed images to Docker Hub
 * Performed code quality analysis using SonarQube
 * Scanned Docker images using Trivy
-* Deployed application on AWS EKS
-* Exposed application using Kubernetes LoadBalancer service
+* Deployed the application on AWS EKS
+* Exposed the application using a Kubernetes LoadBalancer service
 
-📂 **Repository:** [[https://github.com/your-username/food-ordering-devops](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)]
+📂 **Repository:** [https://github.com/PrakashSarvaiya/DevOps-Project-Zomato](https://github.com/PrakashSarvaiya/DevOps-Project-Zomato)
 
 ---
 
@@ -72,13 +79,13 @@ Built a Kubernetes-based application deployment with CI automation and DNS routi
 
 **What I Did**
 
-* Created and managed AWS EKS cluster
+* Created and managed an AWS EKS cluster
 * Automated build and deployment using Jenkins
 * Built and managed Docker images
 * Configured Route53 DNS to access the application
 * Managed Kubernetes manifests (Deployments & Services)
 
-📂 **Repository:** [[https://github.com/your-username/aws-eks-project](https://github.com/PrakashSarvaiya/Book-My-Show)]
+📂 **Repository:** [https://github.com/PrakashSarvaiya/Book-My-Show](https://github.com/PrakashSarvaiya/Book-My-Show)
 
 ---
 
@@ -90,17 +97,17 @@ Built a Kubernetes-based application deployment with CI automation and DNS routi
 
 ## 📜 Certifications
 
-* Scalable Web Applications on Kubernetes [https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view?usp=drive_link]
-* Docker Essentials [https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view?usp=drive_link]
-* DevOps Engineer [https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view?usp=drive_link]
-* AWS Expert [https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view?usp=drive_link]
+* Scalable Web Applications on Kubernetes – [https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view](https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view)
+* Docker Essentials – [https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view](https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view)
+* DevOps Engineer – [https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view](https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view)
+* AWS Expert – [https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view](https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/prakash-sarvaiya](https://www.linkedin.com/in/prakash-sarvaiya)
-* GitHub: [[https://github.com/your-username](https://github.com/PrakashSarvaiya/Book-My-Show)](https://github.com/your-username)
+* LinkedIn: [https://www.linkedin.com/in/prakash-sarvaiya](https://www.linkedin.com/in/prakash-sarvaiya)
+* GitHub: [https://github.com/PrakashSarvaiya](https://github.com/PrakashSarvaiya)
 * Email: [prakashsarvaiya53@gmail.com](mailto:prakashsarvaiya53@gmail.com)
 
 ---
