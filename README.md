@@ -97,7 +97,7 @@ Built a Kubernetes-based application deployment with CI automation and DNS routi
 
 ## 📜 Certifications
 
-* Scalable Web Applications on Kubernetes – [https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view](https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view)
+* Scalable Web Applications on Kubernetes – [Kubernetes](https://drive.google.com/file/d/1uH292rLm3w3s7t8nwZnFHS537AQnVfBU/view)
 * Docker Essentials – [https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view](https://drive.google.com/file/d/1CLSuCYMcnFcY1QWr0GvIUPrsq-9lS6R1/view)
 * DevOps Engineer – [https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view](https://drive.google.com/file/d/1EVLGDktcOLLa6Tfjw-JPQ7GOwuPiDKTB/view)
 * AWS Expert – [https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view](https://drive.google.com/file/d/1ObEo-jMNsnfMkh2vDs8D-NWuwHgTwXK5/view)
